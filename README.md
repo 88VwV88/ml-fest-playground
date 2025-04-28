@@ -24,7 +24,7 @@ An interactive web application for exploring and visualizing fundamental machine
 
 ```bash
 git clone https://github.com/88VwV88/ml-fest-playground.git
-cd ml-playground
+cd ml-fest-playground
 ```
 
 ### Set up a virtual environment (recommended)
@@ -35,7 +35,7 @@ python -m venv venv
 venv\Scripts\activate
 
 # On macOS/Linux
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 ```
 
